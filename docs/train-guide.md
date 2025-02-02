@@ -8,6 +8,7 @@ title: Train line details
 The Tripview app is the best option for this. It is live updated with train delays/railwork and has detailed tracking for anything you may need.
 
 Apple: <https://apps.apple.com/au/app/tripview/id294730339>
+
 Google: <https://play.google.com/store/apps/details?id=com.grofsoft.tripview&hl=en_AU>
 
 ## T1 Network
